@@ -1,1 +1,2 @@
-"# ng2-starter" 
+run 
+    > npm install
